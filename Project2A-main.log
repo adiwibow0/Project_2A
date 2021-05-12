@@ -1,0 +1,1673 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.1)  12 MAY 2021 19:27
+entering extended mode
+**./Project2A-main.tex
+(Project2A-main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count188
+\c@Blindtext=\count189
+\c@blind@countparstart=\count190
+\blind@countxx=\count191
+\blindtext@numBlindtext=\count192
+\blind@countyy=\count193
+\c@blindlist=\count194
+\c@blindlistlevel=\count195
+\c@blindlist@level=\count196
+\blind@listitem=\count197
+\c@blind@listcount=\count198
+\c@blind@levelcount=\count199
+\blind@mathformula=\count266
+\blind@Mathformula=\count267
+\c@blind@randomcount=\count268
+\c@blind@randommax=\count269
+\c@blind@pangramcount=\count270
+\c@blind@pangrammax=\count271
+) (C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen139
+\ttl@minus=\dimen140
+\ttl@toksa=\toks17
+\titlewidth=\dimen141
+\titlewidthlast=\dimen142
+\titlewidthfirst=\dimen143
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks19
+
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip60
+\cftbeforetoctitleskip=\skip61
+\cftaftertoctitleskip=\skip62
+\cftbeforepartskip=\skip63
+\cftpartnumwidth=\skip64
+\cftpartindent=\skip65
+\cftbeforechapskip=\skip66
+\cftchapindent=\skip67
+\cftchapnumwidth=\skip68
+\cftbeforesecskip=\skip69
+\cftsecindent=\skip70
+\cftsecnumwidth=\skip71
+\cftbeforesubsecskip=\skip72
+\cftsubsecindent=\skip73
+\cftsubsecnumwidth=\skip74
+\cftbeforesubsubsecskip=\skip75
+\cftsubsubsecindent=\skip76
+\cftsubsubsecnumwidth=\skip77
+\cftbeforeparaskip=\skip78
+\cftparaindent=\skip79
+\cftparanumwidth=\skip80
+\cftbeforesubparaskip=\skip81
+\cftsubparaindent=\skip82
+\cftsubparanumwidth=\skip83
+\cftbeforeloftitleskip=\skip84
+\cftafterloftitleskip=\skip85
+\cftbeforefigskip=\skip86
+\cftfigindent=\skip87
+\cftfignumwidth=\skip88
+\c@lofdepth=\count275
+\c@lotdepth=\count276
+\cftbeforelottitleskip=\skip89
+\cftafterlottitleskip=\skip90
+\cftbeforetabskip=\skip91
+\cfttabindent=\skip92
+\cfttabnumwidth=\skip93
+)
+(C:\Users\adiwi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count277
+\l__pdf_internal_box=\box48
+)
+No file Project2A-main.aux.
+\openout1 = `Project2A-main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{C:/Users/adiwi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+No file Project2A-main.toc.
+\tf@toc=\write3
+\openout3 = `Project2A-main.toc'.
+
+[1]
+\openout2 = `CaseStudies/CaseStudy_Student_awo.aux'.
+
+ (CaseStudies/CaseStudy_Student_awo.tex
+Case Study 1.
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 4.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/it' in size <15> not available
+(Font)              size <14.4> substituted on input line 4.
+
+) [2
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_307145654.aux'.
+
+ (CaseStudies/CaseStudy_Student_307145654.tex
+Case Study 2.
+) [3
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_430500323.aux'.
+
+ (CaseStudies/CaseStudy_Student_430500323.tex
+Case Study 3.
+) [4
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_480023366.aux'.
+
+ (CaseStudies/CaseStudy_Student_480023366.tex
+Case Study 4.
+) [5
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_480073729.aux'.
+
+ (CaseStudies/CaseStudy_Student_480073729.tex
+Case Study 5.
+) [6
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_480094676.aux'.
+
+ (CaseStudies/CaseStudy_Student_480094676.tex
+Case Study 6.
+) [7
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_480471615.aux'.
+
+ (CaseStudies/CaseStudy_Student_480471615.tex
+Case Study 7.
+) [8
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490014545.aux'.
+
+ (CaseStudies/CaseStudy_Student_490014545.tex
+Case Study 8.
+) [9
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490019218.aux'.
+
+ (CaseStudies/CaseStudy_Student_490019218.tex
+Case Study 9.
+) [10
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490024739.aux'.
+
+ (CaseStudies/CaseStudy_Student_490024739.tex
+Case Study 10.
+) [11
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490025390.aux'.
+
+ (CaseStudies/CaseStudy_Student_490025390.tex
+Case Study 11.
+) [12
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490028977.aux'.
+
+ (CaseStudies/CaseStudy_Student_490028977.tex
+Case Study 12.
+) [13
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490065813.aux'.
+
+ (CaseStudies/CaseStudy_Student_490065813.tex
+Case Study 13.
+) [14
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490084881.aux'.
+
+ (CaseStudies/CaseStudy_Student_490084881.tex
+Case Study 14.
+) [15
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490156753.aux'.
+
+ (CaseStudies/CaseStudy_Student_490156753.tex
+Case Study 15.
+) [16
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490166992.aux'.
+
+ (CaseStudies/CaseStudy_Student_490166992.tex
+Case Study 16.
+) [17
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490187137.aux'.
+
+ (CaseStudies/CaseStudy_Student_490187137.tex
+Case Study 17.
+) [18
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490193714.aux'.
+
+ (CaseStudies/CaseStudy_Student_490193714.tex
+Case Study 18.
+) [19
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490215496.aux'.
+
+ (CaseStudies/CaseStudy_Student_490215496.tex
+Case Study 19.
+) [20
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490296680.aux'.
+
+ (CaseStudies/CaseStudy_Student_490296680.tex
+Case Study 20.
+) [21
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490336698.aux'.
+
+ (CaseStudies/CaseStudy_Student_490336698.tex
+Case Study 21.
+) [22
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490365218.aux'.
+
+ (CaseStudies/CaseStudy_Student_490365218.tex
+Case Study 22.
+) [23
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490445543.aux'.
+
+ (CaseStudies/CaseStudy_Student_490445543.tex
+Case Study 23.
+) [24
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_490542222.aux'.
+
+ (CaseStudies/CaseStudy_Student_490542222.tex
+Case Study 24.
+) [25
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500001655.aux'.
+
+ (CaseStudies/CaseStudy_Student_500001655.tex
+Case Study 25.
+) [26
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500002722.aux'.
+
+ (CaseStudies/CaseStudy_Student_500002722.tex
+Case Study 26.
+) [27
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500010347.aux'.
+
+ (CaseStudies/CaseStudy_Student_500010347.tex
+Case Study 27.
+) [28
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500015870.aux'.
+
+ (CaseStudies/CaseStudy_Student_500015870.tex
+Case Study 28.
+) [29
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500023392.aux'.
+
+ (CaseStudies/CaseStudy_Student_500023392.tex
+Case Study 29.
+) [30
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500032202.aux'.
+
+ (CaseStudies/CaseStudy_Student_500032202.tex
+Case Study 30.
+) [31
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500033494.aux'.
+
+ (CaseStudies/CaseStudy_Student_500033494.tex
+Case Study 31.
+) [32
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500033689.aux'.
+
+ (CaseStudies/CaseStudy_Student_500033689.tex
+Case Study 32.
+) [33
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500034918.aux'.
+
+ (CaseStudies/CaseStudy_Student_500034918.tex
+Case Study 33.
+) [34
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500035007.aux'.
+
+ (CaseStudies/CaseStudy_Student_500035007.tex
+Case Study 34.
+) [35
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500036462.aux'.
+
+ (CaseStudies/CaseStudy_Student_500036462.tex
+Case Study 35.
+) [36
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500049808.aux'.
+
+ (CaseStudies/CaseStudy_Student_500049808.tex
+Case Study 36.
+) [37
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500052509.aux'.
+
+ (CaseStudies/CaseStudy_Student_500052509.tex
+Case Study 37.
+) [38
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500054075.aux'.
+
+ (CaseStudies/CaseStudy_Student_500054075.tex
+Case Study 38.
+) [39
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500060803.aux'.
+
+ (CaseStudies/CaseStudy_Student_500060803.tex
+Case Study 39.
+) [40
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500065037.aux'.
+
+ (CaseStudies/CaseStudy_Student_500065037.tex
+Case Study 40.
+) [41
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500092837.aux'.
+
+ (CaseStudies/CaseStudy_Student_500092837.tex
+Case Study 41.
+) [42
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500102583.aux'.
+
+ (CaseStudies/CaseStudy_Student_500102583.tex
+Case Study 42.
+) [43
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500118104.aux'.
+
+ (CaseStudies/CaseStudy_Student_500118104.tex
+Case Study 43.
+) [44
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500125582.aux'.
+
+ (CaseStudies/CaseStudy_Student_500125582.tex
+Case Study 44.
+) [45
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500149371.aux'.
+
+ (CaseStudies/CaseStudy_Student_500149371.tex
+Case Study 45.
+) [46
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500158904.aux'.
+
+ (CaseStudies/CaseStudy_Student_500158904.tex
+Case Study 46.
+) [47
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500164053.aux'.
+
+ (CaseStudies/CaseStudy_Student_500164053.tex
+Case Study 47.
+) [48
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500198243.aux'.
+
+ (CaseStudies/CaseStudy_Student_500198243.tex
+Case Study 48.
+) [49
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500199413.aux'.
+
+ (CaseStudies/CaseStudy_Student_500199413.tex
+Case Study 49.
+) [50
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500201130.aux'.
+
+ (CaseStudies/CaseStudy_Student_500201130.tex
+Case Study 50.
+) [51
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500235825.aux'.
+
+ (CaseStudies/CaseStudy_Student_500235825.tex
+Case Study 51.
+) [52
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500249969.aux'.
+
+ (CaseStudies/CaseStudy_Student_500249969.tex
+Case Study 52.
+) [53
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500328068.aux'.
+
+ (CaseStudies/CaseStudy_Student_500328068.tex
+Case Study 53.
+) [54
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500363254.aux'.
+
+ (CaseStudies/CaseStudy_Student_500363254.tex
+Case Study 54.
+) [55
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500368581.aux'.
+
+ (CaseStudies/CaseStudy_Student_500368581.tex
+Case Study 55.
+) [56
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500369898.aux'.
+
+ (CaseStudies/CaseStudy_Student_500369898.tex
+Case Study 56.
+) [57
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500394144.aux'.
+
+ (CaseStudies/CaseStudy_Student_500394144.tex
+Case Study 57.
+) [58
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500443660.aux'.
+
+ (CaseStudies/CaseStudy_Student_500443660.tex
+Case Study 58.
+) [59
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500444092.aux'.
+
+ (CaseStudies/CaseStudy_Student_500444092.tex
+Case Study 59.
+) [60
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500444601.aux'.
+
+ (CaseStudies/CaseStudy_Student_500444601.tex
+Case Study 60.
+) [61
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500466751.aux'.
+
+ (CaseStudies/CaseStudy_Student_500466751.tex
+Case Study 61.
+) [62
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500468814.aux'.
+
+ (CaseStudies/CaseStudy_Student_500468814.tex
+Case Study 62.
+) [63
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500482094.aux'.
+
+ (CaseStudies/CaseStudy_Student_500482094.tex
+Case Study 63.
+) [64
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500516300.aux'.
+
+ (CaseStudies/CaseStudy_Student_500516300.tex
+Case Study 64.
+) [65
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500528015.aux'.
+
+ (CaseStudies/CaseStudy_Student_500528015.tex
+Case Study 65.
+) [66
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500563968.aux'.
+
+ (CaseStudies/CaseStudy_Student_500563968.tex
+Case Study 66.
+) [67
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500568907.aux'.
+
+ (CaseStudies/CaseStudy_Student_500568907.tex
+Case Study 67.
+) [68
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500581526.aux'.
+
+ (CaseStudies/CaseStudy_Student_500581526.tex
+Case Study 68.
+) [69
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500622656.aux'.
+
+ (CaseStudies/CaseStudy_Student_500622656.tex
+Case Study 69.
+) [70
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500648449.aux'.
+
+ (CaseStudies/CaseStudy_Student_500648449.tex
+Case Study 70.
+) [71
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500680025.aux'.
+
+ (CaseStudies/CaseStudy_Student_500680025.tex
+Case Study 71.
+) [72
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500710757.aux'.
+
+ (CaseStudies/CaseStudy_Student_500710757.tex
+Case Study 72.
+) [73
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500711673.aux'.
+
+ (CaseStudies/CaseStudy_Student_500711673.tex
+Case Study 73.
+) [74
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_500715970.aux'.
+
+ (CaseStudies/CaseStudy_Student_500715970.tex
+Case Study 74.
+) [75
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510000079.aux'.
+
+ (CaseStudies/CaseStudy_Student_510000079.tex
+Case Study 75.
+) [76
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510000080.aux'.
+
+ (CaseStudies/CaseStudy_Student_510000080.tex
+Case Study 76.
+) [77
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510005362.aux'.
+
+ (CaseStudies/CaseStudy_Student_510005362.tex
+Case Study 77.
+) [78
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510008606.aux'.
+
+ (CaseStudies/CaseStudy_Student_510008606.tex
+Case Study 78.
+) [79
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510016645.aux'.
+
+ (CaseStudies/CaseStudy_Student_510016645.tex
+Case Study 79.
+) [80
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510029656.aux'.
+
+ (CaseStudies/CaseStudy_Student_510029656.tex
+Case Study 80.
+) [81
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510037190.aux'.
+
+ (CaseStudies/CaseStudy_Student_510037190.tex
+Case Study 81.
+) [82
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510051668.aux'.
+
+ (CaseStudies/CaseStudy_Student_510051668.tex
+Case Study 82.
+) [83
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510062011.aux'.
+
+ (CaseStudies/CaseStudy_Student_510062011.tex
+Case Study 83.
+) [84
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510062217.aux'.
+
+ (CaseStudies/CaseStudy_Student_510062217.tex
+Case Study 84.
+) [85
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510067876.aux'.
+
+ (CaseStudies/CaseStudy_Student_510067876.tex
+Case Study 85.
+) [86
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510090391.aux'.
+
+ (CaseStudies/CaseStudy_Student_510090391.tex
+Case Study 86.
+) [87
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510095547.aux'.
+
+ (CaseStudies/CaseStudy_Student_510095547.tex
+Case Study 87.
+) [88
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510157041.aux'.
+
+ (CaseStudies/CaseStudy_Student_510157041.tex
+Case Study 88.
+) [89
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510167589.aux'.
+
+ (CaseStudies/CaseStudy_Student_510167589.tex
+Case Study 89.
+) [90
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510167707.aux'.
+
+ (CaseStudies/CaseStudy_Student_510167707.tex
+Case Study 90.
+) [91
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510176514.aux'.
+
+ (CaseStudies/CaseStudy_Student_510176514.tex
+Case Study 91.
+) [92
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510187381.aux'.
+
+ (CaseStudies/CaseStudy_Student_510187381.tex
+Case Study 92.
+) [93
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510210243.aux'.
+
+ (CaseStudies/CaseStudy_Student_510210243.tex
+Case Study 93.
+) [94
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510217921.aux'.
+
+ (CaseStudies/CaseStudy_Student_510217921.tex
+Case Study 94.
+) [95
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510221401.aux'.
+
+ (CaseStudies/CaseStudy_Student_510221401.tex
+Case Study 95.
+) [96
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510221652.aux'.
+
+ (CaseStudies/CaseStudy_Student_510221652.tex
+Case Study 96.
+) [97
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510224561.aux'.
+
+ (CaseStudies/CaseStudy_Student_510224561.tex
+Case Study 97.
+) [98
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510227241.aux'.
+
+ (CaseStudies/CaseStudy_Student_510227241.tex
+Case Study 98.
+) [99
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510236128.aux'.
+
+ (CaseStudies/CaseStudy_Student_510236128.tex
+Case Study 99.
+) [100
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510275002.aux'.
+
+ (CaseStudies/CaseStudy_Student_510275002.tex
+Case Study 100.
+) [101
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510289180.aux'.
+
+ (CaseStudies/CaseStudy_Student_510289180.tex
+Case Study 101.
+) [102
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510293110.aux'.
+
+ (CaseStudies/CaseStudy_Student_510293110.tex
+Case Study 102.
+) [103
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510294656.aux'.
+
+ (CaseStudies/CaseStudy_Student_510294656.tex
+Case Study 103.
+) [104
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510295468.aux'.
+
+ (CaseStudies/CaseStudy_Student_510295468.tex
+Case Study 104.
+) [105
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510309570.aux'.
+
+ (CaseStudies/CaseStudy_Student_510309570.tex
+Case Study 105.
+) [106
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510315124.aux'.
+
+ (CaseStudies/CaseStudy_Student_510315124.tex
+Case Study 106.
+) [107
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510352200.aux'.
+
+ (CaseStudies/CaseStudy_Student_510352200.tex
+Case Study 107.
+) [108
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510371669.aux'.
+
+ (CaseStudies/CaseStudy_Student_510371669.tex
+Case Study 108.
+) [109
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510375531.aux'.
+
+ (CaseStudies/CaseStudy_Student_510375531.tex
+Case Study 109.
+) [110
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510376675.aux'.
+
+ (CaseStudies/CaseStudy_Student_510376675.tex
+Case Study 110.
+) [111
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510429498.aux'.
+
+ (CaseStudies/CaseStudy_Student_510429498.tex
+Case Study 111.
+) [112
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510430047.aux'.
+
+ (CaseStudies/CaseStudy_Student_510430047.tex
+Case Study 112.
+) [113
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510430689.aux'.
+
+ (CaseStudies/CaseStudy_Student_510430689.tex
+Case Study 113.
+) [114
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510441537.aux'.
+
+ (CaseStudies/CaseStudy_Student_510441537.tex
+Case Study 114.
+) [115
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510454892.aux'.
+
+ (CaseStudies/CaseStudy_Student_510454892.tex
+Case Study 115.
+) [116
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510456276.aux'.
+
+ (CaseStudies/CaseStudy_Student_510456276.tex
+Case Study 116.
+) [117
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510458650.aux'.
+
+ (CaseStudies/CaseStudy_Student_510458650.tex
+Case Study 117.
+) [118
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510471028.aux'.
+
+ (CaseStudies/CaseStudy_Student_510471028.tex
+Case Study 118.
+) [119
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510479596.aux'.
+
+ (CaseStudies/CaseStudy_Student_510479596.tex
+Case Study 119.
+) [120
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510480329.aux'.
+
+ (CaseStudies/CaseStudy_Student_510480329.tex
+Case Study 120.
+) [121
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510480662.aux'.
+
+ (CaseStudies/CaseStudy_Student_510480662.tex
+Case Study 121.
+) [122
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510512228.aux'.
+
+ (CaseStudies/CaseStudy_Student_510512228.tex
+Case Study 122.
+) [123
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510513133.aux'.
+
+ (CaseStudies/CaseStudy_Student_510513133.tex
+Case Study 123.
+) [124
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510518312.aux'.
+
+ (CaseStudies/CaseStudy_Student_510518312.tex
+Case Study 124.
+) [125
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510523888.aux'.
+
+ (CaseStudies/CaseStudy_Student_510523888.tex
+Case Study 125.
+) [126
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510525734.aux'.
+
+ (CaseStudies/CaseStudy_Student_510525734.tex
+Case Study 126.
+) [127
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510526317.aux'.
+
+ (CaseStudies/CaseStudy_Student_510526317.tex
+Case Study 127.
+) [128
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510549084.aux'.
+
+ (CaseStudies/CaseStudy_Student_510549084.tex
+Case Study 128.
+) [129
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510568018.aux'.
+
+ (CaseStudies/CaseStudy_Student_510568018.tex
+Case Study 129.
+) [130
+
+
+
+
+]
+\openout2 = `CaseStudies/CaseStudy_Student_510577434.aux'.
+
+ (CaseStudies/CaseStudy_Student_510577434.tex
+Case Study 130.
+) [131
+
+
+
+
+] (Project2A-main.aux (CaseStudies/CaseStudy_Student_awo.aux)
+(CaseStudies/CaseStudy_Student_307145654.aux)
+(CaseStudies/CaseStudy_Student_430500323.aux)
+(CaseStudies/CaseStudy_Student_480023366.aux)
+(CaseStudies/CaseStudy_Student_480073729.aux)
+(CaseStudies/CaseStudy_Student_480094676.aux)
+(CaseStudies/CaseStudy_Student_480471615.aux)
+(CaseStudies/CaseStudy_Student_490014545.aux)
+(CaseStudies/CaseStudy_Student_490019218.aux)
+(CaseStudies/CaseStudy_Student_490024739.aux)
+(CaseStudies/CaseStudy_Student_490025390.aux)
+(CaseStudies/CaseStudy_Student_490028977.aux)
+(CaseStudies/CaseStudy_Student_490065813.aux)
+(CaseStudies/CaseStudy_Student_490084881.aux)
+(CaseStudies/CaseStudy_Student_490156753.aux)
+(CaseStudies/CaseStudy_Student_490166992.aux)
+(CaseStudies/CaseStudy_Student_490187137.aux)
+(CaseStudies/CaseStudy_Student_490193714.aux)
+(CaseStudies/CaseStudy_Student_490215496.aux)
+(CaseStudies/CaseStudy_Student_490296680.aux)
+(CaseStudies/CaseStudy_Student_490336698.aux)
+(CaseStudies/CaseStudy_Student_490365218.aux)
+(CaseStudies/CaseStudy_Student_490445543.aux)
+(CaseStudies/CaseStudy_Student_490542222.aux)
+(CaseStudies/CaseStudy_Student_500001655.aux)
+(CaseStudies/CaseStudy_Student_500002722.aux)
+(CaseStudies/CaseStudy_Student_500010347.aux)
+(CaseStudies/CaseStudy_Student_500015870.aux)
+(CaseStudies/CaseStudy_Student_500023392.aux)
+(CaseStudies/CaseStudy_Student_500032202.aux)
+(CaseStudies/CaseStudy_Student_500033494.aux)
+(CaseStudies/CaseStudy_Student_500033689.aux)
+(CaseStudies/CaseStudy_Student_500034918.aux)
+(CaseStudies/CaseStudy_Student_500035007.aux)
+(CaseStudies/CaseStudy_Student_500036462.aux)
+(CaseStudies/CaseStudy_Student_500049808.aux)
+(CaseStudies/CaseStudy_Student_500052509.aux)
+(CaseStudies/CaseStudy_Student_500054075.aux)
+(CaseStudies/CaseStudy_Student_500060803.aux)
+(CaseStudies/CaseStudy_Student_500065037.aux)
+(CaseStudies/CaseStudy_Student_500092837.aux)
+(CaseStudies/CaseStudy_Student_500102583.aux)
+(CaseStudies/CaseStudy_Student_500118104.aux)
+(CaseStudies/CaseStudy_Student_500125582.aux)
+(CaseStudies/CaseStudy_Student_500149371.aux)
+(CaseStudies/CaseStudy_Student_500158904.aux)
+(CaseStudies/CaseStudy_Student_500164053.aux)
+(CaseStudies/CaseStudy_Student_500198243.aux)
+(CaseStudies/CaseStudy_Student_500199413.aux)
+(CaseStudies/CaseStudy_Student_500201130.aux)
+(CaseStudies/CaseStudy_Student_500235825.aux)
+(CaseStudies/CaseStudy_Student_500249969.aux)
+(CaseStudies/CaseStudy_Student_500328068.aux)
+(CaseStudies/CaseStudy_Student_500363254.aux)
+(CaseStudies/CaseStudy_Student_500368581.aux)
+(CaseStudies/CaseStudy_Student_500369898.aux)
+(CaseStudies/CaseStudy_Student_500394144.aux)
+(CaseStudies/CaseStudy_Student_500443660.aux)
+(CaseStudies/CaseStudy_Student_500444092.aux)
+(CaseStudies/CaseStudy_Student_500444601.aux)
+(CaseStudies/CaseStudy_Student_500466751.aux)
+(CaseStudies/CaseStudy_Student_500468814.aux)
+(CaseStudies/CaseStudy_Student_500482094.aux)
+(CaseStudies/CaseStudy_Student_500516300.aux)
+(CaseStudies/CaseStudy_Student_500528015.aux)
+(CaseStudies/CaseStudy_Student_500563968.aux)
+(CaseStudies/CaseStudy_Student_500568907.aux)
+(CaseStudies/CaseStudy_Student_500581526.aux)
+(CaseStudies/CaseStudy_Student_500622656.aux)
+(CaseStudies/CaseStudy_Student_500648449.aux)
+(CaseStudies/CaseStudy_Student_500680025.aux)
+(CaseStudies/CaseStudy_Student_500710757.aux)
+(CaseStudies/CaseStudy_Student_500711673.aux)
+(CaseStudies/CaseStudy_Student_500715970.aux)
+(CaseStudies/CaseStudy_Student_510000079.aux)
+(CaseStudies/CaseStudy_Student_510000080.aux)
+(CaseStudies/CaseStudy_Student_510005362.aux)
+(CaseStudies/CaseStudy_Student_510008606.aux)
+(CaseStudies/CaseStudy_Student_510016645.aux)
+(CaseStudies/CaseStudy_Student_510029656.aux)
+(CaseStudies/CaseStudy_Student_510037190.aux)
+(CaseStudies/CaseStudy_Student_510051668.aux)
+(CaseStudies/CaseStudy_Student_510062011.aux)
+(CaseStudies/CaseStudy_Student_510062217.aux)
+(CaseStudies/CaseStudy_Student_510067876.aux)
+(CaseStudies/CaseStudy_Student_510090391.aux)
+(CaseStudies/CaseStudy_Student_510095547.aux)
+(CaseStudies/CaseStudy_Student_510157041.aux)
+(CaseStudies/CaseStudy_Student_510167589.aux)
+(CaseStudies/CaseStudy_Student_510167707.aux)
+(CaseStudies/CaseStudy_Student_510176514.aux)
+(CaseStudies/CaseStudy_Student_510187381.aux)
+(CaseStudies/CaseStudy_Student_510210243.aux)
+(CaseStudies/CaseStudy_Student_510217921.aux)
+(CaseStudies/CaseStudy_Student_510221401.aux)
+(CaseStudies/CaseStudy_Student_510221652.aux)
+(CaseStudies/CaseStudy_Student_510224561.aux)
+(CaseStudies/CaseStudy_Student_510227241.aux)
+(CaseStudies/CaseStudy_Student_510236128.aux)
+(CaseStudies/CaseStudy_Student_510275002.aux)
+(CaseStudies/CaseStudy_Student_510289180.aux)
+(CaseStudies/CaseStudy_Student_510293110.aux)
+(CaseStudies/CaseStudy_Student_510294656.aux)
+(CaseStudies/CaseStudy_Student_510295468.aux)
+(CaseStudies/CaseStudy_Student_510309570.aux)
+(CaseStudies/CaseStudy_Student_510315124.aux)
+(CaseStudies/CaseStudy_Student_510352200.aux)
+(CaseStudies/CaseStudy_Student_510371669.aux)
+(CaseStudies/CaseStudy_Student_510375531.aux)
+(CaseStudies/CaseStudy_Student_510376675.aux)
+(CaseStudies/CaseStudy_Student_510429498.aux)
+(CaseStudies/CaseStudy_Student_510430047.aux)
+(CaseStudies/CaseStudy_Student_510430689.aux)
+(CaseStudies/CaseStudy_Student_510441537.aux)
+(CaseStudies/CaseStudy_Student_510454892.aux)
+(CaseStudies/CaseStudy_Student_510456276.aux)
+(CaseStudies/CaseStudy_Student_510458650.aux)
+(CaseStudies/CaseStudy_Student_510471028.aux)
+(CaseStudies/CaseStudy_Student_510479596.aux)
+(CaseStudies/CaseStudy_Student_510480329.aux)
+(CaseStudies/CaseStudy_Student_510480662.aux)
+(CaseStudies/CaseStudy_Student_510512228.aux)
+(CaseStudies/CaseStudy_Student_510513133.aux)
+(CaseStudies/CaseStudy_Student_510518312.aux)
+(CaseStudies/CaseStudy_Student_510523888.aux)
+(CaseStudies/CaseStudy_Student_510525734.aux)
+(CaseStudies/CaseStudy_Student_510526317.aux)
+(CaseStudies/CaseStudy_Student_510549084.aux)
+(CaseStudies/CaseStudy_Student_510568018.aux)
+(CaseStudies/CaseStudy_Student_510577434.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.6pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3020 strings out of 479321
+ 71457 string characters out of 2856584
+ 327506 words of memory out of 3000000
+ 19863 multiletter control sequences out of 15000+600000
+ 410623 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,4n,74p,427b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\adiwi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi
+1440.pk> <C:\Users\adiwi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbx1728.pk> <C:\Users\adiwi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm1095.pk> <C:\Users\adiwi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx2488.pk> <C:\Users\adiwi\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\adiwi\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx2074.pk>
+Output written on Project2A-main.pdf (132 pages, 189158 bytes).
+PDF statistics:
+ 665 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
